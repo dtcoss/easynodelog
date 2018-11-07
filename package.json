@@ -1,0 +1,19 @@
+{
+  "name": "easynodelog",
+  "version": "1.0.0",
+  "description": "Package for node log",
+  "main": "easynodelog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dtc",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "dateformat": "^3.0.3",
+    "path": "^0.12.7"
+  }
+}
